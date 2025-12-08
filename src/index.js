@@ -4,7 +4,7 @@ window.onload = () => {
       {
         client_id: "734cca9a236d4485bc6de5df7c0b85cb",
         response_type: "token",
-        redirect_uri: "https://examplesite.com/suggest/token",
+        redirect_uri: "https://oauth.yandex.ru/authorize?response_type=code&client_id=734cca9a236d4485bc6de5df7c0b85cb",
       },
       "https://examplesite.com",
       {
